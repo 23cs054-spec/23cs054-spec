@@ -1,61 +1,50 @@
-# Hi, I'm Hareram Kushwaha 👋
+# Hareram Kushwaha
 
-Computer Science Engineering student passionate about building clean, practical, and user-focused software solutions.
+**Full-Stack Developer & CSE Student**
 
-* 💻 Interested in Full-Stack Development, Backend Systems, and AI/ML
-* 🌱 Currently improving problem-solving, software design, and development workflow
-* ⚡ Focused on writing readable and maintainable code
+Building scalable web applications and intelligent systems using modern technologies. Experienced in React, Node.js, MongoDB, system design, and clean code principles.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Java • JavaScript • Python • C
-
-**Web & Tools:**
-React • Node.js • Express • MongoDB • HTML • CSS • Git • GitHub
-
----
-
-## 🌟 Featured Projects
-
-### 🛍️ Cara
-
-Modern responsive e-commerce frontend with SEO optimization and clean UI.
-
-🔗 https://github.com/ha-re-ram/Cara
-
-### 🤖 AIML-Lab
-
-Collection of AI & Machine Learning experiments using Python and Jupyter Notebook.
-
-🔗 https://github.com/ha-re-ram/AIML-Lab
-
-### ☕ Console-project-java
-
-Java console applications demonstrating OOP and clean architecture concepts.
-
-🔗 https://github.com/ha-re-ram/Console-project-java
-
-### 💬 AI-chatbot-web
-
-Interactive chatbot web application built using HTML, CSS, JavaScript, and PHP.
-
-🔗 https://github.com/ha-re-ram/AI-chatbot-web
+**Languages:** Java • JavaScript • Python • C • PHP  
+**Frontend:** React • HTML5 • CSS3 • Tailwind  
+**Backend:** Node.js • Express • Firebase  
+**Databases:** MongoDB • MySQL • SQLite  
+**Tools:** Git • Linux • Jupyter
 
 ---
 
-## 📚 Coding Profiles
+## 🚀 Recent Projects
 
-* LeetCode: https://leetcode.com/u/23cs054/
-* HackerRank: https://www.hackerrank.com/profile/ha_re_ram
+| Project | Tech | Description |
+|---------|------|-------------|
+| **[Online Voting System](https://github.com/ha-re-ram/online-voting-system)** | React, Node.js, SQLite | Secure voting platform with JWT auth, double-voting prevention, real-time results. |
+| **[NexisERP](http://hareramkushwah.infinityfree.io/)** | PHP, MySQL, Chart.js | Multi-tenant SaaS e-commerce with admin dashboard, inventory management, analytics. |
+| **[Cara](https://github.com/ha-re-ram/Cara)** | React, CSS3 | Premium responsive e-commerce frontend with SEO optimization & modern UI. |
+| **[OS-Pro](https://github.com/ha-re-ram/OS-Project)** | Python, Tkinter | Virtual memory simulator & file system with page replacement algorithms. |
+| **[AIML-Lab](https://github.com/ha-re-ram/AIML-Lab)** | Python, Scikit-learn | 9+ machine learning experiments (search, ML models, clustering). |
+| **[Serenity Breathing](https://github.com/ha-re-ram/Serenity-Breathing)** | React, Firebase | PWA wellness app with breathing exercises, BMI tracker, mood analytics. |
+| **[UML Diagram Hub](https://ha-re-ram.github.io/OOSE-Lab-UML-Diagram/)** | Mermaid.js | 18 enterprise system architectures with UML diagrams. |
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Expertise
 
-* Website: https://hareramkushwaha.com.np
-* GitHub: https://github.com/ha-re-ram
-* LinkedIn: https://linkedin.com/in/ha-re-ram
-* Email: [hareramkushwaha054@gmail.com](mailto:hareramkushwaha054@gmail.com)
+Full-Stack Web Development • System Architecture • Secure Authentication • Real-Time Applications • E-Commerce Platforms • SaaS Design • AI/ML • Clean Code
+
+---
+
+## 📞 Connect
+
+🌐 **Portfolio:** https://hareramkushwaha.com.np  
+💼 **LinkedIn:** https://linkedin.com/in/ha-re-ram  
+📧 **Email:** hareramkushwaha054@gmail.com  
+🐙 **GitHub:** https://github.com/ha-re-ram  
+🎯 **LeetCode:** https://leetcode.com/u/23cs054/  
+🔧 **HackerRank:** https://www.hackerrank.com/profile/ha_re_ram
+
+---
+
+*Open to collaboration and exciting projects* 🚀
