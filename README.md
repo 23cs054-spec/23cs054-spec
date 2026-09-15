@@ -79,35 +79,6 @@
 
 ---
 
-### 🧩 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/u/23cs054/"><img src="https://img.shields.io/badge/LeetCode-23cs054-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/ha_re_ram"><img src="https://img.shields.io/badge/HackerRank-ha__re__ram-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/23cs054/">
-    <img src="https://leetcode-stats-api.herokuapp.com/23cs054" alt="LeetCode Stats" height="170" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ha-re-ram&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ha-re-Ram's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-re-ram&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ha-re-ram&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
